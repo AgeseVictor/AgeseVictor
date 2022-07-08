@@ -1,4 +1,6 @@
-
+<p align="left">
+  <img src="https://res.cloudinary.com/simplytammy/image/upload/v1625229072/cover/git-cover.png">
+</p>
 <h1 align="center">Hi 👋, I'm Victor Agese</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align="right"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
